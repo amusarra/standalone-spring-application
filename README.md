@@ -16,4 +16,4 @@ The Spring JDBC Template has the following advantages compared with standard JDB
 * The Spring JDBC template allows to clean-up the resources automatically, e.g. release the database connections;
 * The Spring JDBC template converts the standard JDBC SQLExceptions into RuntimeExceptions. This allows the programmer to react more flexible to the errors.
 
-For the configuration of the bean were used exclusively annotations.
+For the configuration of the beans are used exclusively annotations.
