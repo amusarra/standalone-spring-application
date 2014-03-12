@@ -1,6 +1,8 @@
 Standalone JDBC Template Spring Application
 =============================
 
+[![Build Status](https://drone.io/github.com/amusarra/standalone-spring-application/status.png)](https://drone.io/github.com/amusarra/standalone-spring-application/latest)
+
 In this repository is available a sample project that shows how easy it is to implement a standalone application 
 using the Spring Framework (v. 3.2.2) and is able to manipulate data in a database. 
 Access to the database is done using the component's Spring JDBC Template.
