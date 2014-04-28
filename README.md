@@ -31,7 +31,7 @@ List 1. Clone repository and build the package
 
 <pre>
 $ cd target/
-$ java -jar standalonespringapplication-jar-with-dependencies.jar
+$ java -jar standalonespringapplication-jar-with-dependencies.jar 
 </pre>
 List 2. Run the standalone application
 
